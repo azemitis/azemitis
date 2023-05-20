@@ -8,6 +8,8 @@ Recent projects:
 2. Web application that uses external news feed API to display JSON data in the application. PHP OOP. Codelex.
 3. Web application that utilizes external weather API. PHP OOP. Codelex.
 
+https://www.linkedin.com/in/aiviszemitis/
+
 Skills:
 - PHP
 - OOP
