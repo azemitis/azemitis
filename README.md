@@ -34,7 +34,7 @@ Skills:
 - JSON
 - HTML
 - CSS
-- Wordpress
+- WordPress
 - Drupal
 - Linux (hosting)
 
