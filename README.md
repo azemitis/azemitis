@@ -1,7 +1,7 @@
 ### Hi everyone!
 
 I'm a web developer from Latvia who created his first commercial website in html/css in 2002. 
-Having worked as IT project manager for the main Latvian state portal Latvija.lv, in 2021 I fell in love with the frameworks Laravel and Vue. I became a member of the international community of Vue developers, but my main field of interest lies in Laravel and PHP. I am passionate to code myself, but as a former IT project manager with business IT education, I have a deep understanding of the business side of IT projects as well.
+Having worked as IT project manager for the main Latvian state portal Latvija.lv, in 2021 I fell in love with the frameworks Laravel and Vue. I became a member of the international community of Vue developers, but my main field of interest lies in Laravel and PHP. I am passionate to code myself, but IT project manager experience and business IT education gives me a deep understanding of the business side of IT projects as well.
 
 Skills:
 - PHP
