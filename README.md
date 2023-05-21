@@ -32,8 +32,10 @@ Skills:
 - Github
 - Jira
 - JSON
+- Webpack
 - HTML
 - CSS
+- SASS
 - WordPress
 - Drupal
 - Linux (hosting)
