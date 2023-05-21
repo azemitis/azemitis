@@ -35,7 +35,7 @@ Skills:
 - Webpack
 - HTML
 - CSS
-- SASS
+- SCSS
 - WordPress
 - Drupal
 - Linux (hosting)
