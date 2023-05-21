@@ -32,6 +32,7 @@ Skills:
 - Github
 - Jira
 - JSON
+- Redis
 - Webpack
 - HTML
 - CSS
