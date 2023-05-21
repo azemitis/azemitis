@@ -40,7 +40,6 @@ Skills:
 - WordPress
 - Drupal
 - Linux (hosting)
-- Website design
 - Project management
 
 
